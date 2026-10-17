@@ -1,0 +1,23 @@
+# Quartus build/output artifacts
+db/
+incremental_db/
+output_files/
+simulation/
+greybox_tmp/
+*.bak
+*.qws
+*.rpt
+*.summary
+*.smsg
+*.done
+*.sof
+*.pof
+*.jdi
+*.pin
+*.sld
+
+# ModelSim/Questa
+work/
+transcript
+*.wlf
+*.vcd
